@@ -1,5 +1,12 @@
 # Sistema de Gestión de Tarjetas de Crédito
 
+## 🎥 Demo del Proyecto
+
+<video width="100%" controls>
+  <source src="./frontend/public/video/2025-12-10 16-25-52.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de videos.
+</video>
+
 Este proyecto implementa un sistema completo para la gestión de tarjetas de crédito, desarrollado como parte de una prueba técnica. Incluye un frontend interactivo con validaciones en tiempo real y un backend RESTful con persistencia en Firebase.
 
 ## Descripción del Proyecto
